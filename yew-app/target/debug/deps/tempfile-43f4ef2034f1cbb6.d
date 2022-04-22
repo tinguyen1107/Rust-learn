@@ -1,0 +1,12 @@
+/Users/tinnguyen/Tinguyen/RUST/yew-app/target/debug/deps/tempfile-43f4ef2034f1cbb6.rmeta: /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/lib.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/dir.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/error.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/mod.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/mod.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/spooled.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/util.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/unix.rs
+
+/Users/tinnguyen/Tinguyen/RUST/yew-app/target/debug/deps/tempfile-43f4ef2034f1cbb6.d: /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/lib.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/dir.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/error.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/mod.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/mod.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/spooled.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/util.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/unix.rs
+
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/lib.rs:
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/dir.rs:
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/error.rs:
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/mod.rs:
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/mod.rs:
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/spooled.rs:
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/util.rs:
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/unix.rs:

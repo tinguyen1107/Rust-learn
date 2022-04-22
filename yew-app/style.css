@@ -1,0 +1,106 @@
+:root {
+  --semi-white: #f0f0f0;
+  --blue: #4290ea;
+  --blue-001: #2a68ff;
+  --shadow: rgba(0, 0, 0, 0.15);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Urbanist', sans-serif;
+}
+
+html, body {
+  background-color: var(--semi-white);
+}
+
+.container {
+    width: 400px;
+    height: 100%;
+    padding: 15px;
+    margin: 12px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 2px var(--shadow), -2px -2px 2px 2px #fffd;
+    background-color: var(--semi-white);
+}
+
+.container p {
+    text-align: right;
+    font-size: 1rem;
+    color: var(--blue);
+}
+
+.list_todos_view {
+  max-height: 200px;
+  overflow: auto;
+  background-color: transparent;
+}
+
+.input_container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(245, 245, 245);
+  box-shadow: 2px 2px 2px 2px var(--shadow), -2px -2px 2px 2px #fffd;
+  margin: 15px 0 0; 
+  border-radius: 7px;
+  padding: 5px 10px;
+}
+
+.input_container input {
+  margin-right: 10px;
+  padding: 0 7px;
+  flex: 1;
+  border-radius: 5px;
+  font-size: 1rem;
+  border-width: 0.25px;
+  border-color: rgba(0, 0, 0, 0.1);
+  background-color: transparent;
+}
+
+.input_container button {
+  margin: 0;
+  border-radius: 5px;
+  padding: 7px 15px;
+  background-color: var(--blue);
+  color: var(--semi-white);
+  border-width: 0px;
+  font-size: 1rem;
+}
+
+.input_container button:hover {
+  background-color: var(--blue-001);
+}
+
+.input_container button:active {
+  background-color: var(--blue);
+  color: var(--shadow);
+}
+
+.list_todos_view {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 0 5px;
+}
+
+.todoview_container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 10px;
+  border-radius: 7px;
+  box-shadow: 1.5px 1.5px 1.5px 1.5px rgba(0, 0, 0, 0.1), -1.5px -1.5px 1.5px 1.5px #fffc;
+  margin: 5px 0;
+}
+
+.todoview_container label {
+  margin-left: 5px;
+  font-size: 1rem;
+}

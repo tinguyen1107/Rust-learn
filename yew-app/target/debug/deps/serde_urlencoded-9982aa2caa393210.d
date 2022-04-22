@@ -1,0 +1,11 @@
+/Users/tinnguyen/Tinguyen/RUST/yew-app/target/debug/deps/serde_urlencoded-9982aa2caa393210.rmeta: /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/lib.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/de.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/mod.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/key.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/pair.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/part.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/value.rs
+
+/Users/tinnguyen/Tinguyen/RUST/yew-app/target/debug/deps/serde_urlencoded-9982aa2caa393210.d: /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/lib.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/de.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/mod.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/key.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/pair.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/part.rs /Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/value.rs
+
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/lib.rs:
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/de.rs:
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/mod.rs:
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/key.rs:
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/pair.rs:
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/part.rs:
+/Users/tinnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/value.rs:
